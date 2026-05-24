@@ -1,24 +1,29 @@
-<h1 align="center">Hi, I'm Ayush!</h1>
-<h3 align="left">Passionate Software Developer specializing in building impactful and efficient applications. With a strong foundation in FullStack development and a keen interest in AI and data-driven solutions, I am excited to take on challenging projects that drive innovation and deliver exceptional user experiences. Discover more about my work by checking out my <a href="https://ayushsunny.github.io"><b>portfolio</b></a> and connecting with me on <a href="https://www.linkedin.com/in/ayush-sunny"><b>LinkedIn</b></a>!</h3>
+<h1 align="center">Ayush Anand</h1>
 
+<p align="center">
+Software Engineer focused on frontend systems, scalable product engineering, and performance-driven web applications.
+</p>
 
-<hr>
+<p align="center">
+<a href="https://ayushsunny.github.io">Portfolio</a> •
+<a href="https://www.linkedin.com/in/ayush-sunny">LinkedIn</a>
+</p>
 
-💻 My Key Projects **[INVII](https://github.com/INVIII).**
+---
 
-🌱 Currently learning **Generative AI and NLP.**
+I work primarily with React, TypeScript, Next.js, and modern web technologies to build scalable and responsive product experiences. My interests lie in frontend architecture, real-time systems, performance engineering, distributed product systems, and developer tooling.
 
-⚙️ Skilled in **Python, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, SQL, and Go.**
+Previously, I have worked on AI-powered interfaces, streaming-based applications, multi-tenant platforms, and high-performance frontend systems with a strong focus on usability, scalability, and maintainability.
 
-📚 Interested in **software development entrepreneurship, quantitative trading and product management.**
+I also enjoy exploring system design, product thinking, and the intersection of modern software engineering with AI-assisted development workflows.
 
-🌐 Ask me about **my open-source contributions and music production.**
+### Technologies
+TypeScript • React • Next.js • Node.js • GraphQL • WebSockets • Go • PostgreSQL • AWS • Docker
 
-📨 How to reach me: **ayush.iiitdmj@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/ayush-sunny)**
+### Open Source & Leadership
+Contributor to <a href="https://github.com/mozilla/bedrock">Mozilla Bedrock</a>, the repository powering mozilla.org, working across frontend and platform-related improvements.
+Former Open Source Lead at GDSC IIITDM Jabalpur, where I mentored students around open-source contributions and engineering communities.
 
-🎉 Leadership: I have led a team of over 400 students in open-source contributions as the Open Source Lead for the Google Developer Student Club at IIITDM, Jabalpur.
-
-<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -34,7 +39,7 @@
 <p align="left">
 <a href="https://github.com/Ayushsunny">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayushsunny&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushsunny&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "460em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayushsunny&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
