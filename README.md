@@ -24,16 +24,6 @@ TypeScript • React • Next.js • Node.js • GraphQL • WebSockets • Go �
 Contributor to <a href="https://github.com/mozilla/bedrock">Mozilla Bedrock</a>, the repository powering mozilla.org, working across frontend and platform-related improvements.
 Former Open Source Lead at GDSC IIITDM Jabalpur, where I mentored students around open-source contributions and engineering communities.
 
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,next,nodejs,express,go,mysql,mongodb,docker,aws,git,github,html,css,tailwind,figma&perline=9" />
-  </a>
-</p>
-
-
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
