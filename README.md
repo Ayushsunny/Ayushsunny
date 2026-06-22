@@ -1,7 +1,7 @@
 <h1 align="center">Ayush Anand</h1>
 
 <p align="center">
-Software Engineer focused on frontend systems, scalable product engineering, and performance-driven web applications.
+Software Engineer at Amazon - focused on frontend systems, scalable product engineering, and performance-driven web applications.
 </p>
 
 <p align="center">
